@@ -17,11 +17,15 @@ This project automates Excel data processing by reading multiple files, merging 
 ## 🛠 Technologies Used
 - Python
 - Pandas
-- Matplotlib
 - Openpyxl
+- Matplotlib
 
 ---
 
 ## ▶️ How to Run
 
 1. Install dependencies:
+pip install -r requirements.txt
+
+2. Run the script:
+python main.py
